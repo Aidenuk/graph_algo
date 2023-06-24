@@ -1,1 +1,1 @@
-# replit_test
+This function allows me to find two numbers of union as well as root parents. 
